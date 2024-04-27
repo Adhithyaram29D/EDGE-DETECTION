@@ -66,7 +66,7 @@ plt.show()
 ```
 ## Output:
 ### ORIGINAL IMAGE:
-<img src = "https://github.com/Adhithyaram29D/EDGE-DETECTION/assets/119393540/fc77c257-18e3-4e57-aaae-0feb238ee15e" width="400">
+![image](https://github.com/Adhithyaram29D/EDGE-DETECTION/assets/119393540/0d28f437-9584-49d6-8504-2f258f135969)
 
 ### SOBEL EDGE DETECTOR
 ![download](https://github.com/Adhithyaram29D/EDGE-DETECTION/assets/119393540/9a03103d-f185-4010-9ea5-567b5ef8fd74)
