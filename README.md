@@ -65,19 +65,21 @@ plt.axis("off")
 plt.show()
 ```
 ## Output:
-### ORIGINAL IMAGE:
-![image](https://github.com/Adhithyaram29D/EDGE-DETECTION/assets/119393540/0d28f437-9584-49d6-8504-2f258f135969)
+### ORIGINAL IMAGE
+<img src = "https://github.com/Adhithyaram29D/EDGE-DETECTION/assets/119393540/0d28f437-9584-49d6-8504-2f258f135969" width="300">
 
 ### SOBEL EDGE DETECTOR
-![download](https://github.com/Adhithyaram29D/EDGE-DETECTION/assets/119393540/9a03103d-f185-4010-9ea5-567b5ef8fd74)
-![download](https://github.com/Adhithyaram29D/EDGE-DETECTION/assets/119393540/8a552ce7-ccf8-429d-b3e4-20418d1c1861)
-![download](https://github.com/Adhithyaram29D/EDGE-DETECTION/assets/119393540/9432d0fb-fe17-4758-bd36-d38cf3bb6f7c)
+<img src = "https://github.com/Adhithyaram29D/EDGE-DETECTION/assets/119393540/9a03103d-f185-4010-9ea5-567b5ef8fd74" width="300">
+
+<img src = "https://github.com/Adhithyaram29D/EDGE-DETECTION/assets/119393540/8a552ce7-ccf8-429d-b3e4-20418d1c1861" width="300">
+
+<img src = "https://github.com/Adhithyaram29D/EDGE-DETECTION/assets/119393540/9432d0fb-fe17-4758-bd36-d38cf3bb6f7c" width="300">
 
 ### LAPLACIAN EDGE DETECTOR
-![download](https://github.com/Adhithyaram29D/EDGE-DETECTION/assets/119393540/abe166ea-76df-4e4a-a064-606e5cbdf57d)
+<img src = "https://github.com/Adhithyaram29D/EDGE-DETECTION/assets/119393540/abe166ea-76df-4e4a-a064-606e5cbdf57d" width="300">
 
 ### CANNY EDGE DETECTOR
-![download](https://github.com/Adhithyaram29D/EDGE-DETECTION/assets/119393540/efc30c1b-7922-4122-84ff-02fea1c67152)
+<img src = "https://github.com/Adhithyaram29D/EDGE-DETECTION/assets/119393540/efc30c1b-7922-4122-84ff-02fea1c67152" width="300">
 
 ## Result:
 Thus the edges are detected using Sobel, Laplacian, and Canny edge detectors.
